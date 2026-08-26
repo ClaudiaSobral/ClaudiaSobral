@@ -43,7 +43,7 @@
 
 ### 🎨 Além dos Dados: O Poder do Data Storytelling
 
-Antes de mergulhar na Ciência de Dados, liderei por 5+ anos pipelines de produção de animação para grandes marcas como **Netflix, Amazon Prime e HBO Max**. 
+Antes de mergulhar na Ciência de Dados, estive envolvida por +5 anos em produções de animação para grandes marcas como **Netflix, Amazon Prime e HBO Max**. 
 
 Essa experiência me trouxe uma vantagem competitiva única em **Data Storytelling**: não apenas construo pipelines ou treino modelos de Machine Learning, mas traduzo datasets complexos em narrativas visuais claras e acionáveis para apoiar a tomada de decisão estratégica.
 
