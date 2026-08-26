@@ -31,7 +31,7 @@
 ### 📌 Projetos em Destaque
 
 * 🎓 **[O Impacto do Gênero em STEM (Microdados do ENEM)](https://github.com/ClaudiaSobral/enem-stem-genero)**  
-  *Pipeline de dados de ponta a ponta e modelo preditivo analisando +23M de registros (11GB+). Ingestão otimizada em chunks e formato Parquet (redução de 96,8% no tempo de processamento) com aplicação de CatBoost + SHAP para mensurar barreiras socioeconômicas.*
+  *Pipeline de dados de ponta a ponta e modelo preditivo analisando +23M de registros (11GB+). Ingestão otimizada em chunks e formato Parquet (redução de 96,8% no tempo de leitura) com aplicação de CatBoost + SHAP para mensurar barreiras socioeconômicas.*
 
 * 🪙 **[Pipeline de Dados & Dashboard do Bitcoin](https://github.com/ClaudiaSobral/bitcoin-data-and-dashboard)**  
   *Pipeline ETL automatizada em Python para coleta de dados financeiros via APIs REST, armazenamento relacional em SQLite e visualização de indicadores de mercado (SMA, Bandas de Bollinger, ATR) com Plotly.*
