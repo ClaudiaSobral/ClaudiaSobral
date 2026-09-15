@@ -29,7 +29,7 @@
 ---
 
 ### 🎓 Certificações & Formação
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/org/amazon-web-services)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4cf7441e-a461-4798-8ca8-bdfa42603323/public_url)
 [![MBA USP Esalq](https://img.shields.io/badge/USP%2FEsalq-MBA_Data_Science-B31B1B?style=for-the-badge&logo=education&logoColor=white)](https://mbaesalq.com.br/)
 [![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
 
