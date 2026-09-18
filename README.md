@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_header.gif"/>
+</p>
+
 # Olá, eu sou a Claudia Sobral ✨
 
 **Analista de Dados & Especialista em Data Science** | Pós-Graduada em Data Science na USP/Esalq  
