@@ -1,4 +1,4 @@
-# Olá, eu sou a Claudia Sobral 👋
+# Olá, eu sou a Claudia Sobral ✨
 
 **Analista de Dados & Especialista em Data Science** | Pós-Graduada em Data Science na USP/Esalq  
 *Combinando 5+ anos de bagagem em gestão de operações e animação com pipelines de Dados de ponta a ponta, Machine Learning e Data Storytelling.*
@@ -68,5 +68,5 @@ Se quiser trocar uma ideia sobre Ciência de Dados, Machine Learning ou projetos
 ---
 
 <p align="center">
-  <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_footer.png" height="200"/>
+  <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_footer.png" height="300"/>
 </p>
