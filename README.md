@@ -64,3 +64,9 @@ Se quiser trocar uma ideia sobre Ciência de Dados, Machine Learning ou projetos
 * 🌐 **Site / Portfólio:** [claudiasobral.com](https://claudiasobral.com/)
 * 📧 **E-mail:** [ola@claudiasobral.com](mailto:ola@claudiasobral.com)
 * ▶️ **YouTube:** [A Garota dos Dados](https://www.youtube.com/@garotadosdados)
+
+---
+
+<p align="center">
+  <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_footer.png" height="200"/>
+</p>
