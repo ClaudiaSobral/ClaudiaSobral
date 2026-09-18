@@ -68,5 +68,5 @@ Se quiser trocar uma ideia sobre Ciência de Dados, Machine Learning ou projetos
 ---
 
 <p align="center">
-  <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_footer.png" />
+  <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_footer.gif" />
 </p>
