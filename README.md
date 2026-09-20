@@ -4,8 +4,8 @@
 
 # Olá, eu sou a Claudia Sobral ✨
 
-**Analista de Dados & Especialista em Data Science** | Pós-Graduada em Data Science na USP/Esalq  
-*Combinando 5+ anos de bagagem em gestão de operações e animação com pipelines de Dados de ponta a ponta, Machine Learning e Data Storytelling.*
+Profissional de Dados e BI, especializada em transformar dados brutos em dashboards e insights de negócio que orientam decisões estratégicas.
+Domino o ciclo completo de Business Intelligence: modelagem em SQL, limpeza de dados em Python e construção de dashboards em Power BI, aplicando Data Storytelling para traduzir análises complexas em narrativas visuais claras para públicos técnicos e não-técnicos.
 
 📍 **Localização:** Rio de Janeiro, Brasil  
 🌐 **Portfólio:** [claudiasobral.com](https://claudiasobral.com/) | 💼 **LinkedIn:** [linkedin.com/in/claudia-sobral](https://www.linkedin.com/in/claudia-sobral/) | 📧 **Contato:** [ola@claudiasobral.com](mailto:ola@claudiasobral.com)
