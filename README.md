@@ -6,6 +6,7 @@
 
 Profissional de Dados e BI, especializada em transformar dados brutos em dashboards e insights de negócio que orientam decisões estratégicas.
 Domino o ciclo completo de Business Intelligence: modelagem em SQL, limpeza de dados em Python e construção de dashboards em Power BI, aplicando Data Storytelling para traduzir análises complexas em narrativas visuais claras para públicos técnicos e não-técnicos.
+Resolver problemas é o 
 
 📍 **Localização:** Rio de Janeiro, Brasil  
 🌐 **Portfólio:** [claudiasobral.com](https://claudiasobral.com/) | 💼 **LinkedIn:** [linkedin.com/in/claudia-sobral](https://www.linkedin.com/in/claudia-sobral/) | 📧 **Contato:** [ola@claudiasobral.com](mailto:ola@claudiasobral.com)
@@ -34,8 +35,8 @@ Domino o ciclo completo de Business Intelligence: modelagem em SQL, limpeza de d
 
 ### 🎓 Certificações & Formação
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4cf7441e-a461-4798-8ca8-bdfa42603323/public_url)
-[![MBA USP Esalq](https://img.shields.io/badge/USP%2FEsalq-MBA_Data_Science-B31B1B?style=for-the-badge&logo=education&logoColor=white)](https://mbaesalq.com.br/)
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+[![MBA USP Esalq](https://img.shields.io/badge/USP%20Esalq-MBA_Data_Science-B31B1B?style=for-the-badge&logo=education&logoColor=white)](https://mbx.academy/cursos/data-science-e-analytics-usp-esalq)
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](0)
 
 ### 📌 Projetos em Destaque
 
