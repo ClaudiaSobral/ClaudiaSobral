@@ -6,7 +6,7 @@
 
 Profissional de Dados e BI, especializada em transformar dados brutos em dashboards e insights de negócio que orientam decisões estratégicas.
 Domino o ciclo completo de Business Intelligence: modelagem em SQL, limpeza de dados em Python e construção de dashboards em Power BI, aplicando Data Storytelling para traduzir análises complexas em narrativas visuais claras para públicos técnicos e não-técnicos.
-Resolver problemas é o 
+Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fazê-lo :)
 
 📍 **Localização:** Rio de Janeiro, Brasil  
 🌐 **Portfólio:** [claudiasobral.com](https://claudiasobral.com/) | 💼 **LinkedIn:** [linkedin.com/in/claudia-sobral](https://www.linkedin.com/in/claudia-sobral/) | 📧 **Contato:** [ola@claudiasobral.com](mailto:ola@claudiasobral.com)
