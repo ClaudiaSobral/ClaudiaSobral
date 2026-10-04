@@ -13,6 +13,11 @@ Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fa
 
 ---
 
+### 🎓 Certificações & Badges
+![AWS Certified Cloud Practitioner](./git-assets/cloud-practitioner.png)(https://www.credly.com/earner/earned/share/4cf7441e-a461-4798-8ca8-bdfa42603323)
+![Cisco Cybersecurity](./git-assets/cisco-cibersecurity.png)(https://www.credly.com/earner/earned/share/76a0a1a5-b2d1-4d24-a421-e9430b2354b)
+
+
 ### 🛠️ Tecnologias & Habilidades
 
 **Linguagens & Manipulação de Dados:**  
@@ -32,11 +37,6 @@ Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fa
 [![Git](https://img.shields.io/badge/Git-Controle%20de%20Versão-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
-
-### 🎓 Certificações & Formação
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4cf7441e-a461-4798-8ca8-bdfa42603323/public_url)
-[![MBA USP Esalq](https://img.shields.io/badge/USP%20Esalq-MBA_Data_Science-B31B1B?style=for-the-badge&logo=education&logoColor=white)](https://mbx.academy/cursos/data-science-e-analytics-usp-esalq)
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](0)
 
 ### 📌 Projetos em Destaque
 
