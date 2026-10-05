@@ -1,3 +1,4 @@
+<img src="git-assets/header_faixa.svg" alt="Banner" width="100%" />
 <p align="center">
   <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_header.gif"/>
 </p>
