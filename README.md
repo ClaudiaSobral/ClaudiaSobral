@@ -18,8 +18,8 @@ Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fa
 ### 🎓 Certificações & Badges
 
 <p align="center">
-<a href="https://www.credly.com/earner/earned/share/4cf7441e-a461-4798-8ca8-bdfa42603323"> <img height="32" alt="AWS Certified Cloud Practitioner" scr="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cloud-practitioner.png"/> </a>
-<a href="https://www.credly.com/earner/earned/share/76a0a1a5-b2d1-4d24-a421-e9430b2354b"> <img height="32" alt="Cisco Cybersecurity" scr="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cisco-cibersecurity.png"/> </a>
+<a href="https://www.credly.com/earner/earned/share/4cf7441e-a461-4798-8ca8-bdfa42603323"> <img height="128" alt="AWS Certified Cloud Practitioner" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cloud-practitioner.png"/> </a>
+<a href="https://www.credly.com/earner/earned/share/76a0a1a5-b2d1-4d24-a421-e9430b2354b"> <img height="128" alt="Cisco Cybersecurity" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cisco-cibersecurity.png"/> </a>
 </p>
 
 ### 🛠️ Tecnologias & Habilidades
