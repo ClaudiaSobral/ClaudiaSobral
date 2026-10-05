@@ -19,6 +19,8 @@ Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fa
 
 <p align="center">
 <a href="https://www.credly.com/earner/earned/share/4cf7441e-a461-4798-8ca8-bdfa42603323"> <img height="128" alt="AWS Certified Cloud Practitioner" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cloud-practitioner.png"/> </a>
+<a href="https://www.credly.com/badges/b46528b8-160e-4a2f-974e-e61ec5898888"> <img height="128" alt="AWS re/Start Graduate" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/restart.png"/> </a>
+<a href="https://www.credly.com/badges/c4ddbc2c-a156-425c-848e-c74f174ea995/public_url"> <img height="128" alt="Google Data Analytics Professional Certificate(v.3)" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/google_data_analytics.png"/> </a>
 <a href="https://www.credly.com/earner/earned/share/76a0a1a5-b2d1-4d24-a421-e9430b2354b"> <img height="128" alt="Cisco Cybersecurity" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cisco-cibersecurity.png"/> </a>
 </p>
 
