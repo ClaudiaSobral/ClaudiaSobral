@@ -1,0 +1,3 @@
+- [ ] Criar bordinha no topo do repo
+- [ ] Adicionar badges
+- [ ] Ajustar badges

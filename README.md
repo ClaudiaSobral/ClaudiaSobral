@@ -1,9 +1,18 @@
+<div align="center">
+  
 <img src="git-assets/header_faixa.svg" alt="Banner" width="100%" />
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI%2FPg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDUwNC40IDUwNC40IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxnPg0KCQk8cGF0aCBkPSJNMzc3LjYsMC4ySDEyNi40QzU2LjgsMC4yLDAsNTcsMCwxMjYuNnYyNTEuNmMwLDY5LjIsNTYuOCwxMjYsMTI2LjQsMTI2SDM3OGM2OS42LDAsMTI2LjQtNTYuOCwxMjYuNC0xMjYuNFYxMjYuNg0KCQkJQzUwNCw1Nyw0NDcuMiwwLjIsMzc3LjYsMC4yeiBNMTY4LDQwOC4ySDk2di0yMDhoNzJWNDA4LjJ6IE0xMzEuNiwxNjguMmMtMjAuNCwwLTM2LjgtMTYuNC0zNi44LTM2LjhjMC0yMC40LDE2LjQtMzYuOCwzNi44LTM2LjgNCgkJCWMyMC40LDAsMzYuOCwxNi40LDM2LjgsMzYuOEMxNjgsMTUxLjgsMTUxLjYsMTY4LjIsMTMxLjYsMTY4LjJ6IE00MDguNCw0MDguMkg0MDhoLTYwVjMwNy40YzAtMjQuNC0zLjItNTUuNi0zNi40LTU1LjYNCgkJCWMtMzQsMC0zOS42LDI2LjQtMzkuNiw1NHYxMDIuNGgtNjB2LTIwOGg1NnYyOGgxLjZjOC44LTE2LDI5LjItMjguNCw2MS4yLTI4LjRjNjYsMCw3Ny42LDM4LDc3LjYsOTQuNFY0MDguMnoiLz4NCgk8L2c%2BDQo8L2c%2BDQo8L3N2Zz4%3D&logoColor=000000&color=f9f6a7)](https://www.linkedin.com/in/claudia-sobral/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F9F6A7?style=for-the-badge&logoColor=000000)](https://claudiasobral.com)
+[![GitHub](https://img.shields.io/badge/GitHub-F9F6A7?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ClaudiaSobral)
+
+</div>
+
+# Olá, eu sou a Claudia Sobral ✨
+
 <p align="center">
   <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_header.gif"/>
 </p>
-
-# Olá, eu sou a Claudia Sobral ✨
 
 Profissional de Dados e BI, especializada em transformar dados brutos em dashboards e insights de negócio que orientam decisões estratégicas.
 Domino o ciclo completo de Business Intelligence: modelagem em SQL, limpeza de dados em Python e construção de dashboards em Power BI, aplicando Data Storytelling para traduzir análises complexas em narrativas visuais claras para públicos técnicos e não-técnicos.
@@ -13,6 +22,15 @@ Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fa
 🌐 **Portfólio:** [claudiasobral.com](https://claudiasobral.com/) | 💼 **LinkedIn:** [linkedin.com/in/claudia-sobral](https://www.linkedin.com/in/claudia-sobral/) | 📧 **Contato:** [ola@claudiasobral.com](mailto:ola@claudiasobral.com)
 
 ---
+
+### 🎓 Certificações & Badges
+
+<p align="center">
+<a href="https://www.credly.com/earner/earned/share/4cf7441e-a461-4798-8ca8-bdfa42603323"> <img height="128" alt="AWS Certified Cloud Practitioner" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cloud-practitioner.png"/> </a>
+<a href="https://www.credly.com/badges/b46528b8-160e-4a2f-974e-e61ec5898888"> <img height="128" alt="AWS re/Start Graduate" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/restart.png"/> </a>
+<a href="https://www.credly.com/badges/c4ddbc2c-a156-425c-848e-c74f174ea995/public_url"> <img height="128" alt="Google Data Analytics Professional Certificate(v.3)" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/google_data_analytics.png"/> </a>
+<a href="https://www.credly.com/earner/earned/share/76a0a1a5-b2d1-4d24-a421-e9430b2354b"> <img height="128" alt="Cisco Cybersecurity" src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/ClaudiaSobral-patch-1/git-assets/cisco-cibersecurity.png"/> </a>
+</p>
 
 ### 🛠️ Tecnologias & Habilidades
 
@@ -33,11 +51,6 @@ Resolver problemas é o meu objetivo e dados é apenas mais uma ferramenta de fa
 [![Git](https://img.shields.io/badge/Git-Controle%20de%20Versão-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
-
-### 🎓 Certificações & Formação
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4cf7441e-a461-4798-8ca8-bdfa42603323/public_url)
-[![MBA USP Esalq](https://img.shields.io/badge/USP%20Esalq-MBA_Data_Science-B31B1B?style=for-the-badge&logo=education&logoColor=white)](https://mbx.academy/cursos/data-science-e-analytics-usp-esalq)
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](0)
 
 ### 📌 Projetos em Destaque
 
