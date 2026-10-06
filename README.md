@@ -11,6 +11,7 @@
 
 
 </div>
+
 # Olá, eu sou a Claudia Sobral ✨
 
 Profissional de Dados e BI, especializada em transformar dados brutos em dashboards e insights de negócio que orientam decisões estratégicas.
