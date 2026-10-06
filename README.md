@@ -2,13 +2,16 @@
   
 <img src="git-assets/header_faixa.svg" alt="Banner" width="100%" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=50&pause=1000&color=F9F6A7&center=true&vCenter=true&width=700&height=90&lines=Ol%C3%A1%2C+eu+sou+Claudia+Sobral!+;Prazer+em+conhecer+voc%C3%AA!)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI%2FPg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDUwNC40IDUwNC40IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxnPg0KCQk8cGF0aCBkPSJNMzc3LjYsMC4ySDEyNi40QzU2LjgsMC4yLDAsNTcsMCwxMjYuNnYyNTEuNmMwLDY5LjIsNTYuOCwxMjYsMTI2LjQsMTI2SDM3OGM2OS42LDAsMTI2LjQtNTYuOCwxMjYuNC0xMjYuNFYxMjYuNg0KCQkJQzUwNCw1Nyw0NDcuMiwwLjIsMzc3LjYsMC4yeiBNMTY4LDQwOC4ySDk2di0yMDhoNzJWNDA4LjJ6IE0xMzEuNiwxNjguMmMtMjAuNCwwLTM2LjgtMTYuNC0zNi44LTM2LjhjMC0yMC40LDE2LjQtMzYuOCwzNi44LTM2LjgNCgkJCWMyMC40LDAsMzYuOCwxNi40LDM2LjgsMzYuOEMxNjgsMTUxLjgsMTUxLjYsMTY4LjIsMTMxLjYsMTY4LjJ6IE00MDguNCw0MDguMkg0MDhoLTYwVjMwNy40YzAtMjQuNC0zLjItNTUuNi0zNi40LTU1LjYNCgkJCWMtMzQsMC0zOS42LDI2LjQtMzkuNiw1NHYxMDIuNGgtNjB2LTIwOGg1NnYyOGgxLjZjOC44LTE2LDI5LjItMjguNCw2MS4yLTI4LjRjNjYsMCw3Ny42LDM4LDc3LjYsOTQuNFY0MDguMnoiLz4NCgk8L2c%2BDQo8L2c%2BDQo8L3N2Zz4%3D&logoColor=000000&color=f9f6a7)](https://www.linkedin.com/in/claudia-sobral/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F9F6A7?style=for-the-badge&logoColor=000000)](https://claudiasobral.com)
-[![GitHub](https://img.shields.io/badge/GitHub-F9F6A7?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ClaudiaSobral)
+
+
+
 
 </div>
 
-# Olá, eu sou a Claudia Sobral ✨
 
 <p align="center">
   <img src="https://github.com/ClaudiaSobral/ClaudiaSobral/blob/main/git-assets/git_header.gif"/>
